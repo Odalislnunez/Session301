@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Session 301</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="first">First</string>
+    <string name="reset">Reset</string>
+    <string name="master_tsa">Master TSA - Odalis Nuñez</string>
+    <string name="_2021">2021</string>
+    <string name="get">Get</string>
+    <string name="take">Take</string>
+    <string name="load">Load</string>
+    <string name="write_the_filename">Write the filename</string>
+    <string name="sample_jpg">Sample jpg</string>
+    <string name="image_loaded">Image Loaded</string>
+    <string name="selected_photo_from_the_list">Selected photo from the list</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBppp-IpCyFisg6OKuA4OZfWeooyRrPUW0</string>
+    <string name="start_downloading_my_file">Start</string>
+    <string name="display_all_downloads">Display</string>
+    <string name="check_status_of_download">Check Status</string>
+    <string name="cancel_the_current_download">Cancel</string>
+</resources>
