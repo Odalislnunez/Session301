@@ -10,9 +10,12 @@
     <string name="take">Take</string>
     <string name="load">Load</string>
     <string name="write_the_filename">Write the filename</string>
-    <string name="sample_jpg">Sample jpg</string>
+    <string name="sample_jpg">Sample.jpg</string>
+    <string name="sample_mp4">Sample.mp4</string>
     <string name="image_loaded">Image Loaded</string>
+    <string name="video_loaded">Video Loaded</string>
     <string name="selected_photo_from_the_list">Selected photo from the list</string>
+    <string name="selected_video_from_the_list">Selected video from the list</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBppp-IpCyFisg6OKuA4OZfWeooyRrPUW0</string>
     <string name="start_downloading_my_file">Start</string>
